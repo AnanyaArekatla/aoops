@@ -34,17 +34,17 @@ public class ProgressTracking {
     }
 
 	public double getWeightLost() {
-		// TODO Auto-generated method stub
+		
 		return 0;
 	}
 
 	public Object completedWeeks() {
-		// TODO Auto-generated method stub
+		
 		return null;
 	}
 
 	public double getMuscleGained() {
-		// TODO Auto-generated method stub
+		
 		return 0;
 	}
 }
