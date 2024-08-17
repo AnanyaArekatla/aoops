@@ -1,9 +1,4 @@
-/**
- * 
- */
-/**
- * 
- */
+
 module paymentProcessing {
 	requires junit;
 }
