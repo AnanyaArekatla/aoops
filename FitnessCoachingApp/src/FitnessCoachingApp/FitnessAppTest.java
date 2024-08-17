@@ -26,7 +26,7 @@ public class FitnessAppTest {
     }
 
     private void assertEquals(String string, String level, String string2) {
-		// TODO Auto-generated method stub
+		
 		
 	}
 
@@ -43,17 +43,17 @@ public class FitnessAppTest {
     }
 
     private void assertTrue(boolean planCompleted, String string) {
-		// TODO Auto-generated method stub
+		
 		
 	}
 
 	private void assertFalse(boolean planCompleted, String string) {
-		// TODO Auto-generated method stub
+		
 		
 	}
 
 	private void assertEquals(double d, Object completedWeeks, String string) {
-		// TODO Auto-generated method stub
+		
 		
 	}
 
