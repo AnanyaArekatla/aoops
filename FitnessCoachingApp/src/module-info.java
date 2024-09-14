@@ -1,4 +1,0 @@
-
-module FitnessCoachingApp {
-	requires junit;
-}
