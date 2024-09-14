@@ -50,7 +50,7 @@ public class BankingProcess {
         }
     }
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		BankingProcess bankingProcess = BankingProcess.getInstance();
         bankingProcess.login("username", "password");
 
